@@ -56,3 +56,4 @@ jobs:
         with:
           name: my-app-1.0
           path: target/*
+          
